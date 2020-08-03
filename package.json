@@ -11,5 +11,13 @@
   "license": "GPL-3.0",
   "dependencies": {
     "rimraf": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MegaITA/node-modules-cleaner"
+  },
+  "bugs": {
+    "url": "https://github.com/MegaITA/node-modules-cleaner/issues"
+  },
+  "homepage": "https://github.com/MegaITA/node-modules-cleaner#readme"
 }
